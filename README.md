@@ -13,5 +13,4 @@ parameter 可选的安装路径 默认 /usr/node/latest
 
 自动化安装nginx
 
-在当前路径下新建目录nginx_dir
-nginx安装目录为nginx_dir/nginx
+默认安装目录 ./Nginx
